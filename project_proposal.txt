@@ -1,0 +1,17 @@
+Tic Tac Toe
+
+For our final project, we’ll implement a game of tic tac toe using LED indicators and push button controls.
+
+Required Materials:
+• 10 RGB LEDs (need 9)
+• 30 220-Ohm resistors (need many, can get from CEID)
+• 9 push down buttons (need 7)
+• 5 shift registers (need 3)
+• 1 large breadboard (need 1)
+
+Concept:
+The basic idea is to create a two-player tic tac toe game where players take turns pressing buttons to toggle the LEDs (which will change color/illumination when toggled) within the tic tac toe grid.
+
+Time permitting, we also hope to implement the following: 
+• some logic that will detect when a player has won the game, lighting up a separate LED with the winning player's color and blinking all LEDs on the board to indicate that the game has ended
+• AI that will allow for a single-player experience (using either primitive if-condition heuristics or an algorithm like minimax), potentially with multiple difficulty levels

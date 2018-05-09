@@ -1,0 +1,8 @@
+﻿Bill of Materials:
+• 1 Arduino UNO Board
+• 9 RGB LEDs
+• 27 220-Ohm Resistors
+• 9 Push Buttons
+• 3 Shift Registers
+• 1 Giant Breadboard
+• Many Jumper Cables
